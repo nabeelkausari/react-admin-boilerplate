@@ -46,5 +46,5 @@
     "typescript": "^5.1.6",
     "vite": "^5.3.5"
   },
-  "name": "goodpass-admin"
+  "name": "React Admin Boilerplate"
 }

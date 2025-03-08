@@ -1,4 +1,4 @@
-# goodpass-admin
+# React Admin Boilerplate
 
 ## Installation
 
